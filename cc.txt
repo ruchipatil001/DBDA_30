@@ -1,0 +1,6 @@
+#cloud computing
+cloud computing is the virtual environmet.
+cloud computing basically has 3 services
+1)IAAS :- Infrastructure as a service eg.aws ec2,s3 bucket
+2)SAAS:- Service as a service eg. gmail
+3)PAAS :- Platform as a service eg. platform where we con run and manage code.
